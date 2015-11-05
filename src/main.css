@@ -1,0 +1,14 @@
+
+body {
+  padding: 100px;
+}
+
+.app-page {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+}
+
+.app-page * {
+  box-shadow: 0 0 1px black;
+}
